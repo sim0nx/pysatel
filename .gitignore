@@ -1,0 +1,7 @@
+*.pyc
+uv.lock
+t*.py
+
+.idea
+venv
+.venv
